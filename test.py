@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-from vnstock import *
+from vnstock3 import *
 from scipy.optimize import minimize
 
 # Bước 1: Lấy dữ liệu lịch sử giá của các mã VN30
